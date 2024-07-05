@@ -9,7 +9,7 @@ Repositório da manguetown para armazenar resunmos sobre Git e GitHub, do curso 
 - [Documentação GitHub](https://docs.github.com/)
 
 ## 💻 Resumos das Aulas
-| Aulas | Resumos | Tutoriais e Dicas |
+| Aulas | Resumos | Tutoriais e Dica |
 |------|---------|-------|
 | Gravando Alterções no Repositório Local | [Resumos](https://www.evernote.com/client/web?login=true#/note/97e21947-f237-ce5f-daa6-68baaa52f0a0) | [Git]() - [GitHub](https://docs.github.com/pt/issues/guides) |
 
